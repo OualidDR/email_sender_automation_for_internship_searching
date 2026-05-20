@@ -1,0 +1,33 @@
+# Environment variables (VERY IMPORTANT)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# CSV files (optional but recommended if it contains real emails)
+emails.csv
+
+# CV / personal documents (IMPORTANT)
+CV.pdf
+*.pdf
+
+# Logs
+*.log
+
+data/
